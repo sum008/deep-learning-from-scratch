@@ -28,8 +28,8 @@ This Jupyter notebook is the heart of the project. It progressively builds:
 
 ### Supporting Documentation
 
-- **[DERIVATIVES_EXPLAINED.md](DERIVATIVES_EXPLAINED.md)**: Foundational mathematics behind gradients
-- **[NEURAL_NETWORKS_EXPLAINED.md](NEURAL_NETWORKS_EXPLAINED.md)**: Concepts and architecture overview
+- **[1-micrograd/DERIVATIVES_EXPLAINED.md](1-micrograd/DERIVATIVES_EXPLAINED.md)**: Foundational mathematics behind gradients
+- **[1-micrograd/NEURAL_NETWORKS_EXPLAINED.md](1-micrograd/NEURAL_NETWORKS_EXPLAINED.md)**: Concepts and architecture overview
 - **[1-micrograd/DERIVATIVES_EXPLAINED.md](1-micrograd/DERIVATIVES_EXPLAINED.md)**: Detailed breakdown of derivative calculations
 
 ---
