@@ -30,7 +30,7 @@ This Jupyter notebook is the heart of the project. It progressively builds:
 
 - **[1-micrograd/DERIVATIVES_EXPLAINED.md](1-micrograd/DERIVATIVES_EXPLAINED.md)**: Foundational mathematics behind gradients
 - **[1-micrograd/NEURAL_NETWORKS_EXPLAINED.md](1-micrograd/NEURAL_NETWORKS_EXPLAINED.md)**: Concepts and architecture overview
-- **The Notebook**: [1-micrograd/nn_from_scratch.ipynb](1-micrograd/nn_from_scratch.ipynb)**: NN Notebook
+- **[1-micrograd/nn_from_scratch.ipynb](1-micrograd/nn_from_scratch.ipynb)**: NN Notebook
 
 ---
 
