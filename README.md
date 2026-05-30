@@ -294,8 +294,8 @@ jupyter notebook 1-micrograd/nn_from_scratch.ipynb
 
 ## 📖 References & Further Reading
 
-- **Derivatives Deep Dive**: See [DERIVATIVES_EXPLAINED.md](DERIVATIVES_EXPLAINED.md)
-- **Neural Network Architectures**: See [NEURAL_NETWORKS_EXPLAINED.md](NEURAL_NETWORKS_EXPLAINED.md)
+- **Derivatives Deep Dive**: See [1-micrograd/DERIVATIVES_EXPLAINED.md](1-micrograd/DERIVATIVES_EXPLAINED.md)
+- **Neural Network Architectures**: See [1-micrograd/NEURAL_NETWORKS_EXPLAINED.md](1-micrograd/NEURAL_NETWORKS_EXPLAINED.md)
 - **The Notebook**: [1-micrograd/nn_from_scratch.ipynb](1-micrograd/nn_from_scratch.ipynb)
 
 ---
